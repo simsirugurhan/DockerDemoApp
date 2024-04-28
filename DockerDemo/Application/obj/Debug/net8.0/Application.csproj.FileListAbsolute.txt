@@ -1,0 +1,16 @@
+D:\Repository\DockerDemoApp\DockerDemo\Application\bin\Debug\net8.0\Application.deps.json
+D:\Repository\DockerDemoApp\DockerDemo\Application\bin\Debug\net8.0\Application.dll
+D:\Repository\DockerDemoApp\DockerDemo\Application\bin\Debug\net8.0\Application.pdb
+D:\Repository\DockerDemoApp\DockerDemo\Application\bin\Debug\net8.0\Domain.dll
+D:\Repository\DockerDemoApp\DockerDemo\Application\bin\Debug\net8.0\Domain.pdb
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\Application.dll
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\Application.pdb
+D:\Repository\DockerDemoApp\DockerDemo\Application\obj\Debug\net8.0\ref\Application.dll
